@@ -1,0 +1,6 @@
+ontinue doing crazy things
+872fa7e Try something crazy
+a1e8fb5 Make some important changes to hello.txt
+435b61d Create hello.txt
+9773e52 Initial import
+You can use git checkout to view 
